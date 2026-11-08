@@ -54,4 +54,3 @@ Hardware calibration may be required for the line sensors, motor directions, and
 ## Project context
 
 This was a course team project. The repository documents the verified functionality present in the archived source code and does not assign unverified individual ownership of particular components.
-
